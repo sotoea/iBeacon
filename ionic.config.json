@@ -1,0 +1,8 @@
+{
+  "name": "iBeacon",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "fbf94dbc"
+}
